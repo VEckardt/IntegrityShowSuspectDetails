@@ -1,4 +1,4 @@
-# IntegrityShowSuspectDetails
+# Integrity Show Suspect Details
 This Utility shows the author and the changes caused the Suspect Flag to appear.
 
 ## Use Cases
