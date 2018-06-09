@@ -1,15 +1,14 @@
-# IntegrityShowSuspectDetails
+# Integrity Show Suspect Details
 This Utility shows the author and the changes caused the Suspect Flag to appear.
 
 ## Use Cases
-- As a document author, I'd like to see which change has caused the Suspect Flag to appear. 
+- As a document author, I'd like to see which change has caused the Suspect Flag to appear, to be able to react accordingly. 
 
-## Possible Import Layout
+## Form Layout
 ![CustomImport](doc/ShowSuspectDetails.PNG)
 
-## Important
-- This tool has been created back in 2015 and is in production then
-- The usabilty should be improved
+## Status
+- This tool has been created back in 2015 and is in production since then
 
 ## Tested with
 - Integrity LM 10.4
@@ -34,8 +33,11 @@ Parameter: -jar ..\IntegrityShowSuspectDetails.jar
 ```
 
 ## How to Run
-- Select a suspect node in any document
+- Select a suspect node (document node with suspect flag set) in any document
 - Choose Custom > Show Suspect Details
-- The form for Suspect Details should open
+- The new form for Suspect Details should open
 - Review the outcome
 
+## Notes
+- Thanks to https://github.com/DaisyDiff/DaisyDiff
+- The usabilty should be improved: the second window shall contain all info from the first. Then, only one window is needed. 
