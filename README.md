@@ -9,7 +9,6 @@ This Utility shows the author and the changes caused the Suspect Flag to appear.
 
 ## Important
 - This tool has been created back in 2015 and is in production then
-- The usabilty should be improved
 
 ## Tested with
 - Integrity LM 10.4
@@ -39,3 +38,6 @@ Parameter: -jar ..\IntegrityShowSuspectDetails.jar
 - The form for Suspect Details should open
 - Review the outcome
 
+## Notes
+- Thanks to https://github.com/DaisyDiff/DaisyDiff
+- The usabilty should be improved: the second window shall contain all info from the first. Then, only one window is needed. 
