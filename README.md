@@ -8,7 +8,7 @@ This Utility shows the author and the changes caused the Suspect Flag to appear.
 ![CustomImport](doc/ShowSuspectDetails.PNG)
 
 ## Important
-- This tool has been created back in 2015 and is in production then
+- This tool has been created back in 2015 and is in production since then
 
 ## Tested with
 - Integrity LM 10.4
@@ -33,9 +33,9 @@ Parameter: -jar ..\IntegrityShowSuspectDetails.jar
 ```
 
 ## How to Run
-- Select a suspect node in any document
+- Select a suspect node (document node with suspect flag set) in any document
 - Choose Custom > Show Suspect Details
-- The form for Suspect Details should open
+- The new form for Suspect Details should open
 - Review the outcome
 
 ## Notes
