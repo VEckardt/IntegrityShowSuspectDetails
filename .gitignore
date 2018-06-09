@@ -33,3 +33,7 @@ dist/IntegrityShowSuspectDetails.jnlp
 dist/lib/daisydiff.jar
 dist/lib/IntegrityAPI.jar
 dist/lib/jfxmessagebox-1.1.0.jar
+nbproject/private/configs/Run_as_WebStart.properties
+nbproject/private/configs/Run_in_Browser.properties
+nbproject/private/private.xml
+nbproject/private/private.properties
