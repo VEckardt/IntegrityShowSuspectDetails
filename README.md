@@ -2,12 +2,12 @@
 This Utility shows the author and the changes caused the Suspect Flag to appear.
 
 ## Use Cases
-- As a document author, I'd like to see which change has caused the Suspect Flag to appear. 
+- As a document author, I'd like to see which change has caused the Suspect Flag to appear, to be able to react accordingly. 
 
-## Possible Import Layout
+## Form Layout
 ![CustomImport](doc/ShowSuspectDetails.PNG)
 
-## Important
+## Status
 - This tool has been created back in 2015 and is in production since then
 
 ## Tested with
